@@ -1,9 +1,9 @@
 ﻿// Вид 1 (1 группа методов)
 
-void Method()
-{
-    Console.WriteLine("Автор ...");
-}
+// void Method()
+// {
+//     Console.WriteLine("Автор ...");
+// }
 
 
 // Вид 2 (2 группа методов)
